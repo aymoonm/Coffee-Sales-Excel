@@ -4,7 +4,7 @@
 A comprehensive Excel-based data analysis project that transforms raw coffee order data into an interactive visual dashboard. This project demonstrates advanced Excel skills, including data cleaning, complex formulas, and professional dashboard design.
 
 ## 📸 Dashboard Preview
-![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
+![Coffee Sales Dashboard](dashboard.png)
 *(Make sure to upload your screenshot with the name dashboard.png)*
 
 ## 🛠️ Key Features & Skills Applied
